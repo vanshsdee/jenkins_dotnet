@@ -1,0 +1,14 @@
+/Users/vansh/Desktop/jenkin_dotnet/bin/Debug/net8.0/jenkin_dotnet
+/Users/vansh/Desktop/jenkin_dotnet/bin/Debug/net8.0/jenkin_dotnet.deps.json
+/Users/vansh/Desktop/jenkin_dotnet/bin/Debug/net8.0/jenkin_dotnet.runtimeconfig.json
+/Users/vansh/Desktop/jenkin_dotnet/bin/Debug/net8.0/jenkin_dotnet.dll
+/Users/vansh/Desktop/jenkin_dotnet/bin/Debug/net8.0/jenkin_dotnet.pdb
+/Users/vansh/Desktop/jenkin_dotnet/obj/Debug/net8.0/jenkin_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vansh/Desktop/jenkin_dotnet/obj/Debug/net8.0/jenkin_dotnet.AssemblyInfoInputs.cache
+/Users/vansh/Desktop/jenkin_dotnet/obj/Debug/net8.0/jenkin_dotnet.AssemblyInfo.cs
+/Users/vansh/Desktop/jenkin_dotnet/obj/Debug/net8.0/jenkin_dotnet.csproj.CoreCompileInputs.cache
+/Users/vansh/Desktop/jenkin_dotnet/obj/Debug/net8.0/jenkin_dotnet.dll
+/Users/vansh/Desktop/jenkin_dotnet/obj/Debug/net8.0/refint/jenkin_dotnet.dll
+/Users/vansh/Desktop/jenkin_dotnet/obj/Debug/net8.0/jenkin_dotnet.pdb
+/Users/vansh/Desktop/jenkin_dotnet/obj/Debug/net8.0/jenkin_dotnet.genruntimeconfig.cache
+/Users/vansh/Desktop/jenkin_dotnet/obj/Debug/net8.0/ref/jenkin_dotnet.dll
